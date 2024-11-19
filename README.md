@@ -1,4 +1,4 @@
-# DS-Assignment-Indrajit
+# DS-Assignment-Keshab
 This is the repository that I made for the DS Assignment.
 
 The `test.py` program is the first approach which does not take any input from the user and the sending or receiving of messages is hardcoded to construct a Lamport's Logical Clock.
